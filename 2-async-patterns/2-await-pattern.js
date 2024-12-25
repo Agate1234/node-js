@@ -27,7 +27,7 @@ const start = async() => {
 
 start()
 
-// get text function wit promises
+// get text function wit promises (wrapper)
 
 // const getText = (path) => {
 //   return new Promise((resolve, reject) => {
